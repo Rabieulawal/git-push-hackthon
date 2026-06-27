@@ -2,6 +2,10 @@
 
 a game where you have to get the the airport shuttle leading to the hackthon
 
+
+<img width="627" height="192" alt="image" src="https://github.com/user-attachments/assets/109388df-48c3-46e9-96ef-d226d8cba175" />
+
+
 ### more info
 
 the game is made in godot 4.7 and its 2d thats just kinda it the game is soo simple that tahre is nothing i can write
